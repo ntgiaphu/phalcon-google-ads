@@ -1,8 +1,3 @@
-<p align="center">
-<img src="https://cloud.githubusercontent.com/assets/3541622/17292148/47c841ea-57e8-11e6-80c3-773dfd28a1f4.png" alt="">
-</p>
-
-
 ## Google Ads API for Phalcon
 
 This project is an integration of [`googleads/googleads-php-lib`](https://github.com/googleads/googleads-php-lib) in Phalcon 1.3.
