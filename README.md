@@ -13,6 +13,7 @@ This project is an integration of [`googleads/googleads-php-lib`](https://github
 'providers' => [
     PhalconGoogleAds\PhalconGoogleAdsProvider::class,
 ],
+```
 
 ```php
 $app->register(PhalconGoogleAds\PhalconGoogleAdsProvider::class);
